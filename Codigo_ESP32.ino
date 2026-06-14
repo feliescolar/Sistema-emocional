@@ -7,11 +7,11 @@
 
 // Configuración de red y Supabase
 
-const char* ssid = "MOVISTAR_4C20";
-const char* password = "fBojctXpeDGPms9KyQPG";
+const char* ssid = "Tu_Wifi";
+const char* password = "Tu_contraseña";
 
-String supabase_url = "https://ogwgfiaqfcvxptrbnacw.supabase.co"; 
-String supabase_key = "sb_publishable_kTtgApojl0XdaKwQ02CUCw_MnB8WF4H";
+String supabase_url = "Tu_url"; 
+String supabase_key = "Tu_key";
 
 // Variables del sensor
 
